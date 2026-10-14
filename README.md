@@ -1,1 +1,1 @@
-# lab2_git
+# Git Lab — by Vadym
