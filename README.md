@@ -1,1 +1,1 @@
-# Git Lab — by Vadym
+# Git Lab — by Vadym & Emir
